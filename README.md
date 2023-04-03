@@ -27,7 +27,7 @@ step 2: In pipeline section -> Select pipeline from scm  -> give the github repo
 
 
 
-Final step : Click on build
+Final step : Click on build it is done now
 
 
 
